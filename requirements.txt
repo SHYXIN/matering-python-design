@@ -1,1 +1,4 @@
 mypy==1.10.0
+state-machine==0.2.10
+pyparsing==3.1.4
+cowpy==1.1.5
