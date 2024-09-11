@@ -11,3 +11,5 @@ localstack==3.7.2
 awscli==1.34.15
 awscli-local==0.22.0
 eventsourcing==9.3.2
+faker==28.4.1
+reactivex==4.0.4
