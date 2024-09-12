@@ -13,3 +13,4 @@ awscli-local==0.22.0
 eventsourcing==9.3.2
 faker==28.4.1
 reactivex==4.0.4
+redis==5.0.8
